@@ -43,13 +43,13 @@
 
 
 .smallInput1{
-    border:1px solid red;
+    /* border:1px solid red; */
     height: 80px;
     width:13%;
     margin-top: 10px;
 }
 .smallInput2{
-    border:1px solid red;
+    /* border:1px solid red; */
     height:80px;
     width:30%;
     margin-top: 10px;

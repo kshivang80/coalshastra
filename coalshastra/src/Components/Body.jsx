@@ -298,11 +298,11 @@ const Body = () => {
                 </SimpleGrid>
 
 
-                <Box border="1px solid blue"  h="auto" display="flex" w="90%" m="auto">
+                <Box   h="auto" display="flex" w="90%" m="auto">
                     <Box w="50%">
 
                     </Box>
-                    <Box w="50%" border="1px solid black" >
+                    <Box w="50%"  >
                     <BuyerAndSellerForm/>
                     </Box>
                      
